@@ -1,0 +1,18 @@
+html {
+    background-color: rgb(247, 215, 174);
+    color: rgb(122, 71, 8);
+   
+}
+.site-id{
+font-family: "pacaembu", sans-serif;
+font-weight: 75;
+list-style: 1;
+font-style: normal;
+}
+.call-out {
+    text-align: right;
+}
+
+.hot{
+    color: rgb(37, 125, 125);
+}
